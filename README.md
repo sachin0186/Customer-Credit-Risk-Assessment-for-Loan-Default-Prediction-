@@ -344,7 +344,3 @@ The system can be configured through the `config.yaml` file, which includes sett
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-For questions and support, please contact [your-email@example.com]
